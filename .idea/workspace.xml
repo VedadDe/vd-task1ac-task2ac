@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360fc74b-249b-487c-a7ac-b2b68f5dc65c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="360fc74b-249b-487c-a7ac-b2b68f5dc65c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653240588267</updated>
       <workItem from="1653240590096" duration="11270000" />
-      <workItem from="1653292920670" duration="1858000" />
+      <workItem from="1653292920670" duration="2162000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1653240924798</created>
@@ -78,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653248675821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final touch, started prittier on code. Rename variables, code cleanup and reformat">
+      <created>1653295096746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653295096746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +94,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit, pt2" />
     <MESSAGE value="Tasks 1 &amp;&amp; 2 done. Still needs some cosmetic changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 1 &amp;&amp; 2 done. Still needs some cosmetic changes." />
+    <MESSAGE value="Final touch, started prittier on code. Rename variables, code cleanup and reformat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final touch, started prittier on code. Rename variables, code cleanup and reformat" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

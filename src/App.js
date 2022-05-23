@@ -123,8 +123,11 @@ function App() {
                         <Typography>
                             {" "}
                             Objekat je:{" "}
+                            <br/>
                             {'{"property1":{"property2":"Apple","property3":"Orange"}} '}{" "}
                         </Typography>{" "}
+                        <br/>
+
                         <TextField
                             id="outlined-basic"
                             label="Unesite path za pretragu"
@@ -161,6 +164,8 @@ function App() {
                             {" "}
                             {"{ id: "} {id} {" , value: "} {value} {" }"}
                         </Typography>{" "}
+                        <br/>
+
                         <Button variant="outlined" onClick={task1}>
                             {" "}
                             Pokreni Task 1{" "}
